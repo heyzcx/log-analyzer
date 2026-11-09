@@ -9,7 +9,7 @@ Python 3.8+.
 No installation needed. Clone and run:
 
 ```bash
-git clone https://github.com/mrzhoucx/log-analyzer.git
+git clone https://github.com/heyzcx/log-analyzer.git
 cd log-analyzer
 python3 log_analyzer.py --help
 ```
